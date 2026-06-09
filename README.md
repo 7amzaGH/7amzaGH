@@ -2,41 +2,7 @@
   <img src="assets/github-profile-banner.png" alt="Hamza Ghitri | Embedded AI and Lightweight Perception Systems" width="100%" />
 </p>
 
-<h1 align="center">Hamza Ghitri</h1>
-
-<h3 align="center">
-Embedded AI & Computer Vision Researcher
-</h3>
-
-<p align="center">
-Lightweight Robotic Perception · Edge AI Deployment · Underwater & Aerial Inspection Systems
-</p>
-
-<p align="center">
-  <a href="https://github.com/7amzaGH">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/hamza-ghitri">LinkedIn</a> ·
-  <a href="https://orcid.org/0009-0000-2021-8523">ORCID</a>
-</p>
-
----
-
-## About Me
-
-I am an AI researcher with a Master's degree in **Cybersecurity and Artificial Intelligence**, specializing in **embedded AI, computer vision, and robotic perception** for resource-constrained autonomous systems.
-
-My work focuses on extracting meaningful geometric and environmental information from visual data in challenging real-world environments, especially in **underwater inspection** and **UAV-based search-and-rescue** scenarios.
-
-I am particularly interested in:
-
-- Lightweight perception systems for robotics
-- Embedded AI and real-time inference
-- Underwater and aerial robotic inspection
-- Computer vision for localization, navigation, and scene understanding
-- Geometry-based perception and resource-aware AI deployment
-
----
-
-## Current Research Focus
+## Current Focus
 
 I am currently building research-oriented AI systems that connect **computer vision models** with **practical robotic deployment**.
 
@@ -97,7 +63,7 @@ This includes underwater pipeline inspection, bubble plume analysis, gas leak se
 <tr>
 <td width="50%" align="center">
 
-<img src="assets/neptunet_logo.png" width="120"/>
+<img src="assets/neptunet_logo.png" width="150"/>
 
 ### NeptuNet
 
@@ -137,29 +103,6 @@ It combines lightweight human detection, monocular geolocation, telemetry-based 
 
 ---
 
-## Research Works
-
-### Underwater Robotic Perception
-
-- **Lightweight Underwater Pipeline Geometric Perception for Embedded AI Deployment**  
-  Manuscript prepared for EDiS 2026.
-
-- **Real-Time Embedded Underwater Gas Leak Segmentation Using Physics-Guided Plume Representation**  
-  Manuscript under review.
-
-- **Explainable Physics-Inspired Bubble Plume Analysis for Real-Time Underwater Gas Leak Detection**  
-  Manuscript under review.
-
-- **NeptuNet: A Lightweight Vision-Based AUV Perception System for Subsea Gas Pipeline Inspection**  
-  System-level research work.
-
-### UAV-Based Robotic Perception
-
-- **Lightweight End-to-End Human Detection and Geolocation from UAV Imagery for Search-and-Rescue**  
-  System-level research work.
-
----
-
 ## Research Interests
 
 <p>
@@ -170,11 +113,3 @@ It combines lightweight human detection, monocular geolocation, telemetry-based 
   <img src="https://img.shields.io/badge/Aerial%20Robotics-UAV%20Systems-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Geometric%20Scene%20Understanding-Perception-lightgrey?style=flat-square" />
 </p>
-
----
-
-## Profile Summary
-
-I aim to build AI systems that are not only accurate, but also lightweight, explainable, and deployable on real robotic platforms.
-
-My long-term research goal is to contribute to **resource-aware robotic perception systems** capable of supporting autonomous inspection, environmental monitoring, and field robotics in challenging environments.
